@@ -3,7 +3,7 @@
 
 > We are the strategic partner that transforms ambitious visions into market-leading interactive experiences.
 
-![hippo](https://tenor.com/vH0J.gif)
+<img src="https://media1.tenor.com/m/sB_mZBQE7rMAAAAd/the-revenant-leonardo-di-caprio.giff"/>
 
 ## Who We Are
 

@@ -4,7 +4,7 @@
 > We are the strategic partner that transforms ambitious visions into market-leading interactive experiences.
 
 [//]: # (<img src="https://media1.tenor.com/m/sB_mZBQE7rMAAAAd/the-revenant-leonardo-di-caprio.giff"/>)
-<div style="text-align:center"><img src="../Images/ardent-banner.jpg"/> </div>
+<img style="display:block;float:none;margin-left:auto;margin-right:auto" src="../Images/ardent-banner.jpg"/>
 
 ## Who We Are
 
